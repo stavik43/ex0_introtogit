@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: green
+Favorite food: pizza
+Favorite musician/band: snoop dog
+Favorite movie: the wolf of wall street
+Requested grade in the course: 102
